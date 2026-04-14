@@ -1,0 +1,2 @@
+# DBMS-Queries
+Question Answer 
